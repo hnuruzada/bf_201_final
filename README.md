@@ -4,34 +4,34 @@
 
 ### Bilet nömrəsinə diqqət edin. Yanlış seçilən bilet 0 bal ilə dəyərləndiriləcək.
 
-- Yusif, Vəliyev, Bahadur  ~ bilet 18
+- Yusif, Vəliyev, Bahadur  ~ bilet 14
 
-- Aygün Əliyeva Fərhad  ~ bilet 4
+- Aygün Əliyeva Fərhad  ~ bilet 7
 
-- Nihat Gahramanli Afandi  ~ bilet 9
+- Nihat Gahramanli Afandi  ~ bilet 1
 
-- Şəfa Haqverdiyeva  ~ bilet 8
+- Şəfa Haqverdiyeva  ~ bilet 2
 
-- llkin Qurbanov Sarvan  ~ bilet 3
+- llkin Qurbanov Sarvan  ~ bilet 17
 
-- Zəfər Əliyev Əli ~ bilet 12
+- Zəfər Əliyev Əli ~ bilet 6
 
-- Rahim Abbasov Faiq  ~ bilet 10
+- Rahim Abbasov Faiq  ~ bilet 15
 
-- Gülnar Həsənova Firudin ~ bilet 14
+- Gülnar Həsənova Firudin ~ bilet 9
 
-- Günəş Məmmədova Asif ~ bilet 1
+- Günəş Məmmədova Asif ~ bilet 8
 
-- Rahib Mənsimov Nadir ~ bilet 17
+- Rahib Mənsimov Nadir ~ bilet 3
 
-- Kamal Laçınov ~ bilet 2
+- Kamal Laçınov ~ bilet 12
 
-- Nicat Rzayev Hicran ~ bilet 5
+- Nicat Rzayev Hicran ~ bilet 18
 
-- Fərid İbrahimzadə  ~ bilet 11
+- Fərid İbrahimzadə  ~ bilet 10
 
-- Natiq Ağarzayev Telman ~ bilet 6
+- Natiq Ağarzayev Telman ~ bilet 11
 
-- Əli Məmmədov Raquf ~ bilet 7
+- Əli Məmmədov Raquf ~ bilet 5
 
-- Səidə Məmmədova Mirabbas ~ bilet 13
+- Səidə Məmmədova Mirabbas ~ bilet 16
